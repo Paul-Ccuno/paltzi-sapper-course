@@ -1,1 +1,1 @@
-# paltzi-sapper-course
+# pugstagram
